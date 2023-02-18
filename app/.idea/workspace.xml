@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd4d4d75-a375-4fd1-9732-a93f3fd95306" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/accessToken.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/mainscript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/mapbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/png/bus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/png/com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/png/disable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/png/person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/png/road.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/png/road2f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/png/roadf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/png/service.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +43,8 @@
       <option name="presentableId" value="Default" />
       <updated>1671530916435</updated>
       <workItem from="1671530918379" duration="776000" />
-      <workItem from="1671532206629" duration="1875000" />
+      <workItem from="1671532206629" duration="2469000" />
+      <workItem from="1671610438915" duration="695000" />
     </task>
     <servers />
   </component>
